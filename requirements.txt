@@ -6,7 +6,5 @@ plotly
 requests
 sqlalchemy
 pydantic
-passlib[bcrypt]
-python-jose[cryptography]
 streamlit-option-menu
 streamlit-lottie
