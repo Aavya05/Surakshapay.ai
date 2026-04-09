@@ -1,0 +1,12 @@
+streamlit==1.36.0
+pandas
+numpy
+scikit-learn
+plotly
+requests
+sqlalchemy
+pydantic
+passlib[bcrypt]
+python-jose[cryptography]
+streamlit-option-menu
+streamlit-lottie
