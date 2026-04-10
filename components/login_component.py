@@ -1,6 +1,6 @@
 import streamlit as st
 
-def render_login():
+def render_login_component():
     st.subheader("🔐 Login")
 
     username = st.text_input("Username")
